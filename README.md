@@ -1,4 +1,4 @@
-# Sistema de Almacén - Actividad 2.3 con nota
+# Sistema de Almacén - Actividad 2.3 
 
 Aplicación de consola en Java para gestionar el inventario de un almacén.
 
